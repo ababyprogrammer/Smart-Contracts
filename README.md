@@ -24,4 +24,4 @@ In 2018, a US Senate report said: "While smart contracts might sound new, the co
 
 In April 2021, the UK Jurisdiction Taskforce (UKJT) published the Digital Dispute Resolution Rules (the Digital DR Rules) to help enable the rapid resolution of blockchain and crypto legal disputes in Britain.
 
-
+**A big thanks to you for read this type!.**
