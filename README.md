@@ -6,7 +6,7 @@ Vending machines are mentioned as the oldest piece of technology equivalent to s
 
 A smart contract should not be confused with a smart legal contract, which refers to a traditional, natural-language, legally-binding agreement that has selected terms expressed and implemented in machine-readable code.
 
-# Etymology
+# 
 
 Smart contracts were first proposed in the early 1990s by Nick Szabo, who coined the term, using it to refer to "a set of promises, specified in digital form, including protocols within which the parties perform on these promises". In 1998, the term was used to describe objects in rights management service layer of the system The Stanford Infobus, which was a part of Stanford Digital Library Project.
 
