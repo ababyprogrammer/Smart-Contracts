@@ -56,4 +56,5 @@ contract Bar {
             emit LogBytes(reason);
         }
     }
+
 }
